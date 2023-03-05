@@ -137,7 +137,7 @@ footer{font-size:0.875em; margin-top:12em; text-align:center;}
    }
 
     h2{font-size:2.00em;}
-    p{font-size:1.5em; line-height:1em;margin:0px 50px;}
+    p{font-size:1.5em; width:700px; line-height:1em;margin:0px 50px;}
     th,td,tr{font-size:1.5em; line-height:1em;margin:0px 50px ;}
     td.date{font-size:1em; padding-top:0.5em;}
     td.navigation{font-size:1.2em; padding:0px 20px 0px 20px;}
