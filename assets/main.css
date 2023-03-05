@@ -66,7 +66,7 @@ sub{
     line-height: 0;
 }
 table{
-    width: 1000px;
+    width: min(900px,90%);
     margin: 12px auto 24px auto;
     float: center;
     font-size:1.2em;
@@ -136,10 +136,10 @@ footer{font-size:0.875em; margin-top:12em; text-align:center;}
    }
 
     h2{font-size:2.00em;}
-    p{font-size:1.5em; line-height:1em;margin:50px; width: 600px;}
+    p{font-size:1.5em; line-height:1em;margin:50px; width: min(300px,80%);}
     th,td,tr{font-size:1.5em; line-height:1em;margin:0px 50px;}
     td.date{font-size:1em; padding-top:0.5em;}
     td.navigation{font-size:1.2em; padding:0px 20px 0px 20px;}
-    table.footer{font-size:0.33em;margin: 0px  50px;}
+    table.footer{font-size:0.33em;margin: 0px  50px;width: min(300px,80%);}
     table{font-size:1.5em;margin: 0px 50px;}
 }
