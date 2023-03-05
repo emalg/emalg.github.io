@@ -131,7 +131,7 @@ footer{font-size:0.875em; margin-top:12em; text-align:center;}
 /* My hacky way of making the site mobile-friendly */
 @media only screen and (max-width: 600px) {
     *, html, body{
-      width:600px;
+      width:300px;
       margin: 0 50px;
       padding-left: 10px !important;
       padding-right: 10px !important;
