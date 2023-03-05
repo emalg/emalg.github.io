@@ -530,7 +530,7 @@ nav {
 /* =============================================================================
    Location
    ========================================================================== */
-iframe.directions{display:block; margin:1em auto 2em auto; width:500px; height:300px; border:none;}
+iframe.directions{display:block; margin:1em auto 2em auto; width:95%; height:300px; border:none;}
 /* =============================================================================
    Media Queries
    ========================================================================== */
