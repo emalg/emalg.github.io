@@ -1,4 +1,4 @@
-# [Homepage](https://emalg.github.io)
+# WYRMP 23
 
 [Hugo](https://emalg.github.io/website/wyrmp-hugo)
 
