@@ -2,68 +2,68 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/authors/</loc>
+    <loc>https://emalg.github.io/website/wyrmp-hugo/authors/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/</loc>
+    <loc>https://emalg.github.io/website/wyrmp-hugo/blog/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://emalg.github.io/website/wyrmp-hugo/categories/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/2021/08/01/coffee-meeting/</loc>
+    <loc>https://emalg.github.io/website/wyrmp-hugo/blog/2021/08/01/coffee-meeting/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/get-in-touch/</loc>
+    <loc>https://emalg.github.io/website/wyrmp-hugo/tags/get-in-touch/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/getting-together/</loc>
+    <loc>https://emalg.github.io/website/wyrmp-hugo/tags/getting-together/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/authors/john-doe/</loc>
+    <loc>https://emalg.github.io/website/wyrmp-hugo/authors/john-doe/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/lorem/</loc>
+    <loc>https://emalg.github.io/website/wyrmp-hugo/categories/lorem/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://emalg.github.io/website/wyrmp-hugo/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/programming/</loc>
+    <loc>https://emalg.github.io/website/wyrmp-hugo/categories/programming/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/pseudo/</loc>
+    <loc>https://emalg.github.io/website/wyrmp-hugo/categories/pseudo/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://emalg.github.io/website/wyrmp-hugo/tags/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/2015/10/02/diversity-reading-group/</loc>
+    <loc>https://emalg.github.io/website/wyrmp-hugo/blog/2015/10/02/diversity-reading-group/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/golang/</loc>
+    <loc>https://emalg.github.io/website/wyrmp-hugo/tags/golang/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/hugo/</loc>
+    <loc>https://emalg.github.io/website/wyrmp-hugo/tags/hugo/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/authors/jane-doe/</loc>
+    <loc>https://emalg.github.io/website/wyrmp-hugo/authors/jane-doe/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/programming/</loc>
+    <loc>https://emalg.github.io/website/wyrmp-hugo/tags/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/theme/</loc>
+    <loc>https://emalg.github.io/website/wyrmp-hugo/tags/theme/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/go/</loc>
+    <loc>https://emalg.github.io/website/wyrmp-hugo/tags/go/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/2015/09/17/mentoring-program/</loc>
+    <loc>https://emalg.github.io/website/wyrmp-hugo/blog/2015/09/17/mentoring-program/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/contact/</loc>
+    <loc>https://emalg.github.io/website/wyrmp-hugo/contact/</loc>
   </url><url>
-    <loc>http://example.org/faq/</loc>
+    <loc>https://emalg.github.io/website/wyrmp-hugo/faq/</loc>
   </url>
 </urlset>

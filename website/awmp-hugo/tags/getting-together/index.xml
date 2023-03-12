@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>getting together on My New Hugo Site</title>
-    <link>http://example.org/tags/getting-together/</link>
+    <link>https://emalg.github.io/website/wyrmp-hugo/tags/getting-together/</link>
     <description>Recent content in getting together on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="http://example.org/tags/getting-together/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://emalg.github.io/website/wyrmp-hugo/tags/getting-together/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coffee Meetings</title>
-      <link>http://example.org/blog/2021/08/01/coffee-meeting/</link>
+      <link>https://emalg.github.io/website/wyrmp-hugo/blog/2021/08/01/coffee-meeting/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
       
-      <guid>http://example.org/blog/2021/08/01/coffee-meeting/</guid>
+      <guid>https://emalg.github.io/website/wyrmp-hugo/blog/2021/08/01/coffee-meeting/</guid>
       <description>I&amp;rsquo;m a post with multiple categories in the frontmatter:
 categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;] Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim.</description>
     </item>
