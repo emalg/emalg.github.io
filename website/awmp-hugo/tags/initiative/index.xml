@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>initiative on AWMP</title>
+    <link>https://emalg.github.io/website/awmp-hugo/tags/initiative/</link>
+    <description>Recent content in initiative on AWMP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://emalg.github.io/website/awmp-hugo/tags/initiative/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shaping the initiative</title>
+      <link>https://emalg.github.io/website/awmp-hugo/activities/1/01/01/shaping-the-initiative/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://emalg.github.io/website/awmp-hugo/activities/1/01/01/shaping-the-initiative/</guid>
+      <description>How to reach out to similar initiatives, include people from all areas of mathematical physics, finding out which initiatives would be appreciated by women in our community, investigate funding possibilities.</description>
+    </item>
+    
+  </channel>
+</rss>

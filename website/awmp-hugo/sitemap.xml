@@ -2,68 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://emalg.github.io/website/awmp-hugo/about-us/</loc>
+  </url><url>
     <loc>https://emalg.github.io/website/awmp-hugo/authors/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>https://emalg.github.io/website/awmp-hugo/blog/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>https://emalg.github.io/website/awmp-hugo/categories/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>https://emalg.github.io/website/awmp-hugo/blog/2021/08/01/coffee-meeting/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>https://emalg.github.io/website/awmp-hugo/tags/get-in-touch/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>https://emalg.github.io/website/awmp-hugo/tags/getting-together/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>https://emalg.github.io/website/awmp-hugo/authors/john-doe/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>https://emalg.github.io/website/awmp-hugo/categories/lorem/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
     <loc>https://emalg.github.io/website/awmp-hugo/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://emalg.github.io/website/awmp-hugo/categories/programming/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://emalg.github.io/website/awmp-hugo/categories/</loc>
   </url><url>
-    <loc>https://emalg.github.io/website/awmp-hugo/categories/pseudo/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://emalg.github.io/website/awmp-hugo/activities/1/01/01/coffee-meeting/</loc>
   </url><url>
-    <loc>https://emalg.github.io/website/awmp-hugo/tags/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>https://emalg.github.io/website/awmp-hugo/blog/2015/10/02/diversity-reading-group/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-  </url><url>
-    <loc>https://emalg.github.io/website/awmp-hugo/tags/golang/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-  </url><url>
-    <loc>https://emalg.github.io/website/awmp-hugo/tags/hugo/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-  </url><url>
-    <loc>https://emalg.github.io/website/awmp-hugo/authors/jane-doe/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-  </url><url>
-    <loc>https://emalg.github.io/website/awmp-hugo/tags/programming/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-  </url><url>
-    <loc>https://emalg.github.io/website/awmp-hugo/tags/theme/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-  </url><url>
-    <loc>https://emalg.github.io/website/awmp-hugo/tags/go/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
-  </url><url>
-    <loc>https://emalg.github.io/website/awmp-hugo/blog/2015/09/17/mentoring-program/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <loc>https://emalg.github.io/website/awmp-hugo/tags/conferences/</loc>
   </url><url>
     <loc>https://emalg.github.io/website/awmp-hugo/contact/</loc>
   </url><url>
-    <loc>https://emalg.github.io/website/awmp-hugo/faq/</loc>
+    <loc>https://emalg.github.io/website/awmp-hugo/tags/dissemination/</loc>
+  </url><url>
+    <loc>https://emalg.github.io/website/awmp-hugo/tags/diversity/</loc>
+  </url><url>
+    <loc>https://emalg.github.io/website/awmp-hugo/activities/1/01/01/diversity-reading-group/</loc>
+  </url><url>
+    <loc>https://emalg.github.io/website/awmp-hugo/activities/1/01/01/events/</loc>
+  </url><url>
+    <loc>https://emalg.github.io/website/awmp-hugo/tags/getting-together/</loc>
+  </url><url>
+    <loc>https://emalg.github.io/website/awmp-hugo/activities/1/01/01/hybrid-conf/</loc>
+  </url><url>
+    <loc>https://emalg.github.io/website/awmp-hugo/tags/hybrid-events/</loc>
+  </url><url>
+    <loc>https://emalg.github.io/website/awmp-hugo/tags/inclusion/</loc>
+  </url><url>
+    <loc>https://emalg.github.io/website/awmp-hugo/tags/initiative/</loc>
+  </url><url>
+    <loc>https://emalg.github.io/website/awmp-hugo/activities/</loc>
+  </url><url>
+    <loc>https://emalg.github.io/website/awmp-hugo/tags/mentoring/</loc>
+  </url><url>
+    <loc>https://emalg.github.io/website/awmp-hugo/activities/1/01/01/mentoring-program/</loc>
+  </url><url>
+    <loc>https://emalg.github.io/website/awmp-hugo/tags/networking/</loc>
+  </url><url>
+    <loc>https://emalg.github.io/website/awmp-hugo/tags/online/</loc>
+  </url><url>
+    <loc>https://emalg.github.io/website/awmp-hugo/tags/promoting-events/</loc>
+  </url><url>
+    <loc>https://emalg.github.io/website/awmp-hugo/tags/reading-group/</loc>
+  </url><url>
+    <loc>https://emalg.github.io/website/awmp-hugo/activities/1/01/01/shaping-the-initiative/</loc>
+  </url><url>
+    <loc>https://emalg.github.io/website/awmp-hugo/tags/</loc>
+  </url><url>
+    <loc>https://emalg.github.io/website/awmp-hugo/activities/1/01/01/wwebsite/</loc>
   </url>
 </urlset>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mentoring on AWMP</title>
+    <link>https://emalg.github.io/website/awmp-hugo/tags/mentoring/</link>
+    <description>Recent content in mentoring on AWMP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://emalg.github.io/website/awmp-hugo/tags/mentoring/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mentoring program</title>
+      <link>https://emalg.github.io/website/awmp-hugo/activities/1/01/01/mentoring-program/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://emalg.github.io/website/awmp-hugo/activities/1/01/01/mentoring-program/</guid>
+      <description>A mentoring program for women in mathematical physics, from student to postdoc level.</description>
+    </item>
+    
+  </channel>
+</rss>
