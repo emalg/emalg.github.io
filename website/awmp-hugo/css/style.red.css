@@ -2,12 +2,12 @@
 :root {
   --primary-accent: #cd193d;
   --navbar-border-top: #d4d4d4;
-  --button-border: #1ca8ba;
+  --button-border: #a4d4d8;
   --link-focus: #b52626;
   --form-shadow: rgba(159, 2, 30, 0.4);
   --pagination-bg: #d4d4d4;
-  --link-hover-bg: #1ca8ba;
-  --navbar-focus: #1ca8ba;
+  --link-hover-bg: #a4d4d8;
+  --navbar-focus: #a4d4d8;
 }
 
 .clearfix:before,
