@@ -16,6 +16,15 @@
     </item>
     
     <item>
+      <title>Communications</title>
+      <link>https://emalg.github.io/website/awmp-hugo/activities/1/01/01/wwebsite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://emalg.github.io/website/awmp-hugo/activities/1/01/01/wwebsite/</guid>
+      <description>&lt;p&gt;Our dedicated team is committed to promoting the activities and projects of AWMP while enhancing and regularly updating this website.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Diversity reading group</title>
       <link>https://emalg.github.io/website/awmp-hugo/activities/1/01/01/diversity-reading-group/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -43,7 +52,7 @@
     </item>
     
     <item>
-      <title>Mentoring program</title>
+      <title>Mentoring program (Upcoming)</title>
       <link>https://emalg.github.io/website/awmp-hugo/activities/1/01/01/mentoring-program/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -52,21 +61,12 @@
     </item>
     
     <item>
-      <title>Shaping the initiative</title>
+      <title>Shaping the initiative (Upcoming)</title>
       <link>https://emalg.github.io/website/awmp-hugo/activities/1/01/01/shaping-the-initiative/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://emalg.github.io/website/awmp-hugo/activities/1/01/01/shaping-the-initiative/</guid>
       <description>How to reach out to similar initiatives, include people from all areas of mathematical physics, finding out which initiatives would be appreciated by women in our community, investigate funding possibilities.</description>
-    </item>
-    
-    <item>
-      <title>Website</title>
-      <link>https://emalg.github.io/website/awmp-hugo/activities/1/01/01/wwebsite/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://emalg.github.io/website/awmp-hugo/activities/1/01/01/wwebsite/</guid>
-      <description>&lt;p&gt;A group working on the dissemination of AWMP activities and projects enriching and keeping updated this website.&lt;/p&gt;</description>
     </item>
     
   </channel>
